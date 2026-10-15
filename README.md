@@ -37,7 +37,7 @@ Basic listing with different job boards to find remote jobs.
 - [OkJob](https://okjob.io/remote-4-day-work-week/) - 4 day week remote jobs
 - [Real Job Work From Home](https://realjobworkfromhome.com/) - Free remote job browsing with keyword, employment-type and salary-listed filters.
 - [Jaabz](https://jaabz.com/) - Tech jobs with visa sponsorship, relocation, and remote filters.
-- [Remote1stJobs](https://www.remote1stjobs.com/) - Remote jobs open to UK, Europe and EMEA candidates, with clear hiring-location eligibility.
+- [Remote1stJobs](https://www.remote1stjobs.com/) - Remote jobs for candidates in the UK, Europe and the USA.
 
 ## Freelancing
 - [Skillbridge](http://www.skillbridge.co/)
